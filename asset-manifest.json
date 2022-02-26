@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jtpolo14.github.io/csb-e68qr5/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jtpolo14.github.io/csb-e68qr5/static/js/main.80bab5e7.chunk.js",
+    "main.js.map": "https://jtpolo14.github.io/csb-e68qr5/static/js/main.80bab5e7.chunk.js.map",
+    "runtime-main.js": "https://jtpolo14.github.io/csb-e68qr5/static/js/runtime-main.2f3dbf36.js",
+    "runtime-main.js.map": "https://jtpolo14.github.io/csb-e68qr5/static/js/runtime-main.2f3dbf36.js.map",
+    "static/js/2.51fac462.chunk.js": "https://jtpolo14.github.io/csb-e68qr5/static/js/2.51fac462.chunk.js",
+    "static/js/2.51fac462.chunk.js.map": "https://jtpolo14.github.io/csb-e68qr5/static/js/2.51fac462.chunk.js.map",
+    "index.html": "https://jtpolo14.github.io/csb-e68qr5/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jtpolo14.github.io/csb-e68qr5/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.51fac462.chunk.js.LICENSE.txt": "https://jtpolo14.github.io/csb-e68qr5/static/js/2.51fac462.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f3dbf36.js",
+    "static/js/2.51fac462.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.80bab5e7.chunk.js"
+  ]
+}
